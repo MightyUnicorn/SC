@@ -1,7 +1,7 @@
 # NSE Analytics Platform - Complete Demo
 
 > **📋 Portfolio Demonstration Repository**  
-> This repository is for **hiring process only** 
+> This repository is for **hiring process only**.
 > **Not accepting** pull requests or issues. 
 
 Interactive Jupyter notebook for NSE indices data analysis with returns and correlation calculations.
